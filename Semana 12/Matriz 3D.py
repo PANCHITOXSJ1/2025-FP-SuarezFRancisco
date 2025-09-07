@@ -5,7 +5,7 @@
 #   - Primera dimensión: Ciudades (3 ciudades)
 #   - Segunda dimensión: Semanas (4 semanas)
 #   - Tercera dimensión: Días de la semana (7 días)
-# En cada celda se guarda un diccionario con {"day": <día>, "temp": <temperatura>}
+
 
 temperaturas = [
     [   # Ciudad 1
@@ -15,7 +15,7 @@ temperaturas = [
             {"day": "Miércoles", "temp": 82},
             {"day": "Jueves", "temp": 79},
             {"day": "Viernes", "temp": 85},
-            {"day": "Sábado", "temp": 88},
+            {"day": "Sábado", "temp": 99},
             {"day": "Domingo", "temp": 92}
         ],
         [   # Semana 2
@@ -31,7 +31,7 @@ temperaturas = [
             {"day": "Lunes", "temp": 77},
             {"day": "Martes", "temp": 81},
             {"day": "Miércoles", "temp": 85},
-            {"day": "Jueves", "temp": 82},
+            {"day": "Jueves", "temp": 70},
             {"day": "Viernes", "temp": 88},
             {"day": "Sábado", "temp": 91},
             {"day": "Domingo", "temp": 95}
