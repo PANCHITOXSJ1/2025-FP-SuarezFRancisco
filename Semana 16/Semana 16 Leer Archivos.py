@@ -13,7 +13,7 @@ with open("my_notes.txt", "w") as archivo:
     # write() se usa para escribir texto en el archivo
     archivo.write("1. Hoy aprendí a manipular archivos en Python.\n")
     archivo.write("2. La práctica es importante para mejorar mis habilidades.\n")
-    archivo.write("3. Cerrar correctamente los archivos evita errores, Francisco Suarez.\n")
+    archivo.write("3. Cerrar correctamente los archivos evita errores, Francisco Suarez UEA.\n")
 
 # Lectura de Archivo de Texto
 # Ahora abrimos el archivo en modo lectura ("r")

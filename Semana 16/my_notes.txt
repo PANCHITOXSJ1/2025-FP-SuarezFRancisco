@@ -1,3 +1,3 @@
 1. Hoy aprendí a manipular archivos en Python.
 2. La práctica es importante para mejorar mis habilidades.
-3. Cerrar correctamente los archivos evita errores, Francisco Suarez.
+3. Cerrar correctamente los archivos evita errores, Francisco Suarez UEA.
